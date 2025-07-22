@@ -540,4 +540,3 @@ template: templates/single-column.html
             </div>
         </div>
     </div>
-</div>
